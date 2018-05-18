@@ -175,7 +175,7 @@ As you can see, you can easily ***cross your conditions*** (i.e., two conditions
 
 
 ### Adding the task information
-Now, let's add some task data. In our case, the task is the correlation plots. So, in `imports/experiment/server/constants.js` let's add the following task information: 
+Now, let's add some task data. In our case, the task is the correlation plots. So, in `imports/experiment/server/game/constants.js` let's add the following task information: 
 
 ```javascript
 export const taskData = [
